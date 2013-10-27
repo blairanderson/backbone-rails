@@ -1,8 +1,9 @@
 # Backbone-Rails [![Build Status](https://secure.travis-ci.org/codebrew/backbone-rails.png)](http://travis-ci.org/codebrew/backbone-rails)
 
-Easily setup and use backbone.js (0.9.10) with Rails 3.1 and greater
+Easily setup and use backbone.js (1.1.0) with Rails 4.0
 
-Follow [@TheRyanFitz on Twitter](http://twitter.com/#!/TheRyanFitz). Tweet any questions or suggestions you have about the project.
+Forked from codebrew/backbone-rails by [@TheRyanFitz on Twitter](http://twitter.com/#!/TheRyanFitz). I am new-ish to backbone but couldn't find anyone trying to make a rails4 compatible solution.
+
 
 ## Rails setup
 This gem requires the use of rails 3.1 and greater, coffeescript and the new rails asset pipeline provided by sprockets.

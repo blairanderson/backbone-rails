@@ -3,7 +3,8 @@
 Easily setup and use backbone.js (1.1.0) with Rails 4.0
 
 Forked from codebrew/backbone-rails by [@TheRyanFitz on Twitter](http://twitter.com/TheRyanFitz). 
-I am [@blairanderson on twitter](https://twitter.com/blairanderson) and would love to see pull requests for this rails-4 compatible solution.
+
+I am [@BlairAnderson on twitter](https://twitter.com/blairanderson) and would love to see pull requests for this rails-4 compatible solution.
 
 
 ## Rails setup
